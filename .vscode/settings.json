@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 0, // memperbesar atau memperkecil tampilan
+    "editor.fontSize": 16, // memperbesar atau memperkecil font
+    "workbench.colorTheme": "Noctis Minimus", // mengubah warna tema VSCode
+    "workbench.iconTheme": "vscode-icons", // ubah icon file
+    
+
+}

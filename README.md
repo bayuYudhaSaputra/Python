@@ -25,5 +25,8 @@
         <li>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0106-SummationOfSeries.py"> 01.06. Summation of a series </a>
         </li>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0107-approximatePhi.py"> 01.07. Approximate Phi </a>
+        </li>
     </ul>
 </div>

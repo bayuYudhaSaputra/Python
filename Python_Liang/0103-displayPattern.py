@@ -5,7 +5,11 @@
 # -------------------------------------------------------------------------------------------------------------
 # 01.03. Display a pattern
 #   Write a program that displays the following pattern:
-#   https://photos.app.goo.gl/MoQAN3NKKtbS4rYE9
+#        FFFFFFF   U     U   NN    NN 
+#        FF        U     U   NNN   NN 
+#        FFFFFFF   U     U   NN N  NN 
+#        FF         U   U    NN  N NN 
+#        FF          UU      NN   NNN 
 # ==============================================================================================================
 
 print(" FFFFFFF   U     U   NN    NN ")

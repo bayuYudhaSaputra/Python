@@ -5,7 +5,7 @@
 # -------------------------------------------------------------------------------------------------------------
 # 01.15. Turtle: draw two triangles
 #   Write a program that draws two triangles as shown in
-#   
+#   https://photos.app.goo.gl/rbq1pJe2mE28jhKm9
 # ==============================================================================================================
 
 import turtle # import modul turtle

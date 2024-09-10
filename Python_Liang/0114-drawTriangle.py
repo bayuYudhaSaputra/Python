@@ -5,7 +5,7 @@
 # -------------------------------------------------------------------------------------------------------------
 # 01.14. Turtle: draw a triangle
 #   Write a program that draws a triangle as shown in
-#   
+#   https://photos.app.goo.gl/LXjzPRbvmmsMPGRUA
 # ==============================================================================================================
 
 import turtle # import modul turtle

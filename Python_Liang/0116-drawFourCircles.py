@@ -5,7 +5,7 @@
 # -------------------------------------------------------------------------------------------------------------
 # 01.16. Turtle: draw four circles
 #   Write a program that draws four circles in the center of the screen, as shown in
-#   
+#   https://photos.app.goo.gl/eCZj8f4g9kJXcvcv9
 # ==============================================================================================================
 
 import turtle # import modul turtle

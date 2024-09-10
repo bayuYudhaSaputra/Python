@@ -32,7 +32,7 @@ turtle.forward(200)     # gambar garis 200px
 # 3. Bagi persegi secara vertikal
 turtle.penup()          # angkat pena
 turtle.right(90)        # arahkan 90 derajat ke kanan
-turtle.goto(0, 100)    # tempatkan ke titik (0, -100)
+turtle.goto(0, 100)     # tempatkan ke titik (0, -100)
 turtle.pendown()        # turunkan pena
 turtle.forward(200)     # gambar garis 200px
 

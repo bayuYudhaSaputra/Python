@@ -40,5 +40,17 @@
         <li>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0111-populationProjection.py"> 01.11. Population projection </a>
         </li>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0113-drawCross.py"> 01.13. Turtle: draw a cross </a>
+        </li>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0114-drawTriangle.py"> 01.14. Turtle: draw a triangle </a>
+        </li>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0115-drawTwoTriangle.py"> 01.15. Turtle: draw two triangles </a>
+        </li>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0116-drawFourCircles.py"> 01.16. Turtle: draw four circles </a>
+        </li>
     </ul>
 </div>

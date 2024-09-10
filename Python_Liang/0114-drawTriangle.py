@@ -17,5 +17,4 @@ turtle.forward(100) # buat garis 100px
 turtle.right(120) # arahkan pena 120 ke kanan
 turtle.forward(100) # buat garis 100px
 
-
 turtle.done()

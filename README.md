@@ -28,5 +28,17 @@
         <li>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0107-approximatePhi.py"> 01.07. Approximate Phi </a>
         </li>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0108-areaPerimeterCircle.py"> 01.08. Area and perimeter of a circle </a>
+        </li>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0109-areaAndPerimeterRectangle.py"> 01.09. Area and perimeter of a rectangle </a>
+        </li>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0110-averageSpeed.py"> 01.10. Average speed </a>
+        </li>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0111-populationProjection.py"> 01.11. Population projection </a>
+        </li>
     </ul>
 </div>

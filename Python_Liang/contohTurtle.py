@@ -21,6 +21,4 @@ turtle.forward(100) # buat garis sesuai arah panah sepanjang 100px
 turtle.right(45) # memutar arah panah 45 derajat searah jarum jam
 turtle.forward(80) # buat garis sesuai arah panah sepanjang 80px
 
-
-
 turtle.done() # Menghentikan turtle 

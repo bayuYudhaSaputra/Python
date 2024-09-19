@@ -1,5 +1,5 @@
-# Assign a value to radius
-radius = 20
+# Prompt the user to enter a radius
+radius = eval(input("Enter a value of radius: "))
 
 # Compute area
 area = radius * radius * 3.14159

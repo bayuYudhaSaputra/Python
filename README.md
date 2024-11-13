@@ -60,7 +60,10 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0201-convertCelsiusToFahrenheit.py"> (Baris kode) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan) </a>
+            <a href="#"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="#"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
         </li>
     </ul>
 </div>

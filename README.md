@@ -59,9 +59,8 @@
         <li> 02.01. Convert Celsius to Fahrenheit
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0201-convertCelsiusToFahrenheit.py"> (Baris kode) </a>
-        </li>
-        <span> | </span>
-         <li> <a href="#"> (Penjelasan) </a>
+            <span> | </span>
+            <a href="#"> (Penjelasan) </a>
         </li>
     </ul>
 </div>

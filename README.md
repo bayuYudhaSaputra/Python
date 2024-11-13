@@ -56,8 +56,8 @@
     <h3> Chapter 02 </h3>
     <p> Programming exercise : </p>
     <ul>
-        <li>
-            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0201-convertCelsiusToFahrenheit.py"> 02.01. Convert Celsius to Fahrenheit </a>
+        <li> 02.01. Convert Celsius to Fahrenheit
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0201-convertCelsiusToFahrenheit.py"> (Baris kode) </a>
         </li>
     </ul>
 </div>

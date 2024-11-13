@@ -57,7 +57,7 @@
     <p> Programming exercise : </p>
     <ul>
         <li>
-            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0116-drawFourCircles.py"> 02.01. Convert Celsius to Fahrenheit </a>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0201-convertCelsiusToFahrenheit.py"> 02.01. Convert Celsius to Fahrenheit </a>
         </li>
     </ul>
 </div>

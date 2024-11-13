@@ -53,4 +53,11 @@
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0116-drawFourCircles.py"> 01.16. Turtle: draw four circles </a>
         </li>
     </ul>
+    <h3> Chapter 02 </h3>
+    <p> Programming exercise : </p>
+    <ul>
+        <li>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0116-drawFourCircles.py"> 02.01. Convert Celsius to Fahrenheit </a>
+        </li>
+    </ul>
 </div>

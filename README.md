@@ -60,9 +60,9 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0201-convertCelsiusToFahrenheit.py"> (Baris kode) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di Medium) </a>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-01-konversi-celsius-ke-fahrenheit-reamur-dan-kelvin-328df08750b7"> (Penjelasan di Medium) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di SlideShare) </a>
+            <a href="https://www.slideshare.net/slideshow/02-01-konversi-suhu-menggunakan-bahasa-pemrograman-python/273258796"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
     </ul>

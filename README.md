@@ -65,5 +65,14 @@
             <a href="https://www.slideshare.net/slideshow/02-01-konversi-suhu-menggunakan-bahasa-pemrograman-python/273258796"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 02.02. Convert Celsius to Fahrenheit
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0202-MenentukanVolLuasTabung.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="#"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/menentukan-volume-dan-luas-tabung-menggunakan-python/273466290"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

@@ -69,7 +69,7 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0202-MenentukanVolLuasTabung.py"> (Baris kode) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di Medium) </a>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-02-menentukan-volume-dan-luas-tabung-ff956a276499"> (Penjelasan di Medium) </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/menentukan-volume-dan-luas-tabung-menggunakan-python/273466290"> (Penjelasan di SlideShare) </a>
              <span> | </span>

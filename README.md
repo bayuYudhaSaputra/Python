@@ -56,7 +56,7 @@
     <h3> Chapter 02 </h3>
     <p> Programming exercise : </p>
     <ul>
-        <li> 02.01. Convert Celsius to Fahrenheit
+        <li> 02.01. Mengonversi Suhu
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0201-convertCelsiusToFahrenheit.py"> (Baris kode) </a>
             <span> | </span>
@@ -65,7 +65,7 @@
             <a href="https://www.slideshare.net/slideshow/02-01-konversi-suhu-menggunakan-bahasa-pemrograman-python/273258796"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
-        <li> 02.02. Convert Celsius to Fahrenheit
+        <li> 02.02. Hitung luas dan volume tabung
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0202-MenentukanVolLuasTabung.py"> (Baris kode) </a>
             <span> | </span>
@@ -73,6 +73,16 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/menentukan-volume-dan-luas-tabung-menggunakan-python/273466290"> (Penjelasan di SlideShare) </a>
              <span> | </span>
+        </li>
+        <li> 02.03. Mengonversi kaki ke meter
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0203-KonversiKakiKeMeter.py"> (Baris kode) </a>
+            <span> | </span>
+        </li>
+        <li> 02.04. Mengonversi pound ke kilogram
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0204-KonversiPoundKeKilogram.py"> (Baris kode) </a>
+            <span> | </span>
         </li>
     </ul>
 </div>

@@ -14,4 +14,4 @@ pound = eval(input("Input berat dalam satuan pound (Misal 55.5): "))
 kilogram = 0.454 * pound
 
 # Tampilkan hasil konversi
-print("Berat", pound, "pound sama dengan", kilogram, "Kg.")
+print("Massa", pound, "pound sama dengan", kilogram, "Kg.")

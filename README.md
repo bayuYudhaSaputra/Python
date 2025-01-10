@@ -87,6 +87,10 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0204-KonversiPoundKeKilogram.py"> (Baris kode) </a>
             <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-04-mengonversi-satuan-pound-ke-kilogram-7927d41edbbe"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-04-konversi-pound-menjadi-kilogram-menggunakan-python/274781262"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
         </li>
     </ul>
 </div>

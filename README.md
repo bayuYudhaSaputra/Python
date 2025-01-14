@@ -92,5 +92,14 @@
             <a href="https://www.slideshare.net/slideshow/02-04-konversi-pound-menjadi-kilogram-menggunakan-python/274781262"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0205. Finansial : Menghitung Tip
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0205-HitungTip.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-05-menghitung-tip-menggunakan-python-3ce520878f14"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-05-menentukan-tip-menggunakan-bahasa-pemrograman-python/274851703"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

@@ -17,7 +17,7 @@ Misal, 932 % 10 = 2 dan 932 // 10 = 93)
 '''
 
 # 1. Input bilangan ratusan
-bilangan = eval(input("Input bilangan ratusan : "))
+bilangan = int(input("Input bilangan ratusan : "))
 
 # 2. Ekstrak ratusan
 digitRatusan = bilangan // 100

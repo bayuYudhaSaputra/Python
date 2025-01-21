@@ -16,15 +16,12 @@ nilaiMenit = eval(input("Input selang waktu dalam satuan menit: "))
 
 # 2. Konversi waktu dalam menit menjadi tahun
 nilaiTahun = nilaiMenit // (365 * 24 * 60)
-print(nilaiTahun)
 
 # 3. tentukan sisa pembagian nilaiMenit
 sisaMenit = nilaiMenit % (365 * 24 * 60)
-print(sisaMenit)
 
 # 4. Konversi sisaMenit menjadi hari
 nilaiHari = sisaMenit // (24 * 60)
-print(nilaiHari)
 
 # 5. Tampilkan hasil konversi
 print(nilaiMenit, " menit kira-kira sama dengan ", 

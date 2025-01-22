@@ -110,5 +110,14 @@
             <a href="https://www.slideshare.net/slideshow/02-06-jumlah-digit-integer-menggunakan-bahasa-pemrograman-python/274886045"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0207. Mengonversi Satuan Waktu Dari Menit Ke Tahun dan Hari
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0207-konversiMenitKeTahunHari.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/mengonversi-menit-ke-tahun-lebih-beberapa-hari-c65578df3eda"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-07-mengonversi-satuan-menit-ke-tahun-dan-hari/275032227"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

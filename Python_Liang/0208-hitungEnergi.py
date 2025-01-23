@@ -18,6 +18,6 @@ suhu_akhir = eval(input("Input suhu akhir air (dalam derajat celsius) : "))
 energi = massa * (suhu_akhir - suhu_awal) * 4184
 
 print("Energi yang dibutuhkan untuk memanaskan ", 
-      massa, "Kg air, dari", suhu_awal, "hingga", suhu_akhir,
-      "adalah", energi, "joule."
+      massa, "Kg air, dari", suhu_awal, "derajat celsius hingga", suhu_akhir,
+      "derajat celsius adalah", energi, "joule."
       )

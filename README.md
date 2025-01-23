@@ -119,5 +119,14 @@
             <a href="https://www.slideshare.net/slideshow/02-07-mengonversi-satuan-menit-ke-tahun-dan-hari/275032227"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0208. Mengonversi Satuan Waktu Dari Menit Ke Tahun dan Hari
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0208-hitungEnergi.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-08-menghitung-jumlah-energi-8effc74ef39e"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-08-menghitung-energi-yang-dibutuhkan-untuk-memanaskan-air-pdf/275064452"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

@@ -128,5 +128,14 @@
             <a href="https://www.slideshare.net/slideshow/02-08-menghitung-energi-yang-dibutuhkan-untuk-memanaskan-air-pdf/275064452"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0209. Menghitung Wind-chill Temperature
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0209-windchill-temperature.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-09-menghitung-wind-chill-temperature-ea4514dbfe2b"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-09-menentukan-wind-chill-temperature-menggunakan-bahasa-pemrograman-python/275272552"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

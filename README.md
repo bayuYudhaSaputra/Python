@@ -137,5 +137,14 @@
             <a href="https://www.slideshare.net/slideshow/02-09-menentukan-wind-chill-temperature-menggunakan-bahasa-pemrograman-python/275272552"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0210. Hitung Panjang Minimum Runway
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0210-length-runway.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-10-hitung-panjang-minimal-runway-b7d96de5c0e9"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-10-hitung-panjang-minimal-runway-menggunakan-python/275348018"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

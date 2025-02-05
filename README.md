@@ -146,5 +146,14 @@
             <a href="https://www.slideshare.net/slideshow/02-10-hitung-panjang-minimal-runway-menggunakan-python/275348018"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0211. Hitung Nilai Awal Tabungan
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0211-DepositAwal.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-11-hitung-nilai-awal-tabungan-9da1c543dd95"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-11-hitung-nilai-awal-tabungan-menggunakan-python/275379012"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

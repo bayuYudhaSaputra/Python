@@ -41,4 +41,3 @@ satuan = str(satuan)
 bilanganTerbalik = satuan + puluhan + ratusan + ribuan
 
 print("Urutan terbalik dari bilangan", bilangan, "adalah", bilanganTerbalik)
-

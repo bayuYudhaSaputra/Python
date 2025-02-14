@@ -155,6 +155,11 @@
             <a href="https://www.slideshare.net/slideshow/02-11-hitung-nilai-awal-tabungan-menggunakan-python/275379012"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0212. Membuat Tabel
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0212-printTable.py"> (Baris kode) </a>
+            <span> | </span>
+        </li>
         <li> 0213. Ekstrak Bilangan Ribuan
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0213-EkstraksiBilangan.py"> (Baris kode) </a>

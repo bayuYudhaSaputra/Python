@@ -169,5 +169,14 @@
             <a href="https://www.slideshare.net/slideshow/02-13-ekstrak-bilangan-ribuan-mengguanakan-bahasa-pemrograman-python/275566197"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0214. Luas segitiga
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0214-LuasSegitiga.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-14-luas-segitiga-e8336dc87b96"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-14-luas-segitiga-menggunakan-bahasa-pemrograman-python/275722612"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

@@ -3,8 +3,8 @@
 0214. Hitung Luas Segitiga
 Oleh : #bayuyudhasaputra
 ----------------------------------------------------
-Tuliskan program yang meminta input 3 titik kepada p
-engguna, yaitu (x1, y1),  (x2, y2),  dan (x3, y3). 
+Tuliskan program yang meminta input 3 titik kepada 
+pengguna, yaitu (x1, y1),  (x2, y2),  dan (x3, y3). 
 Titik-titik yang diinput ini adalah titik sudut 
 segitiga. 
 ====================================================

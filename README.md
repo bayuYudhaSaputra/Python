@@ -178,5 +178,14 @@
             <a href="https://www.slideshare.net/slideshow/02-14-luas-segitiga-menggunakan-bahasa-pemrograman-python/275722612"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0215. Luas segienam
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0215-LuasSegienam.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-15-luas-segienam-beraturan-b855c501656d"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-15-luassegienam-menggunakan-bahasa-pemrograman-python/275886148"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

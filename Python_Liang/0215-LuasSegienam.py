@@ -1,6 +1,6 @@
 '''
 ====================================================
-0214. Hitung Luas Segienam
+0215. Hitung Luas Segienam
 Oleh : #bayuyudhasaputra
 ----------------------------------------------------
 Tuliskan program yang meminta input panjang sisi 

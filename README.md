@@ -196,5 +196,14 @@
             <a href="https://www.slideshare.net/slideshow/02-16-hitung-percepatan-menggunakan-python/275971788"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0217. Body Mass Index
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0217-bmi.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-16-body-mass-index-e71856bdd29b"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-17-menentukan-body-mass-index-menggunakan-bahasa-pemrograman-python/276033979"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

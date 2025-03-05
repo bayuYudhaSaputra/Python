@@ -18,6 +18,7 @@ tahun = eval(input("Input jangka waktu investasi (dalam satuan tahun) : "))
 
 # 2. Menentukan nilai akhir investasi.
 nilaiAkhir = nilaiAwal * (1 + (bunga / 100)) ** tahun
+nilaiAkhir = round(nilaiAkhir, 2)
 
 # 3. Tampilkan hasil perhitungan nilai akhir investasi.
 print("Nilai akhir investasi adalah Rp", nilaiAkhir)

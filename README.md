@@ -205,5 +205,14 @@
             <a href="https://www.slideshare.net/slideshow/02-17-menentukan-body-mass-index-menggunakan-bahasa-pemrograman-python/276033979"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0219. Nilai Investasi
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0219-hitungInvestasi.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-19-hitung-nilai-investasi-10341b828b94"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-19-hitung-nilai-investasi-menggunakan-python-pdf/276287679"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

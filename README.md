@@ -214,5 +214,14 @@
             <a href="https://www.slideshare.net/slideshow/02-19-hitung-nilai-investasi-menggunakan-python-pdf/276287679"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0220. Nominal Bunga Bulanan
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0220-hitungBunga.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-20-hitung-nilai-investasi-8fa287e1b3f9"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-20-hitung-nominal-bunga-bulanan-menggunakan-python/276479294"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

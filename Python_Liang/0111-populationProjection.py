@@ -16,9 +16,11 @@
 
 print( 
     "Total populasi 5 tahun lagi adalah ", 
-    312032486 + # jumlah populasi semula
-    ((365 * 24 * 3600) // 7) - # jumlah kelahiran
+    312032486 +                 # jumlah populasi semula
+    ( 5 *                       # selama 5 tahun  
+    ((365 * 24 * 3600) // 7) -  # jumlah kelahiran
     ((365 * 24 * 3600) // 13) + # jumlah kematian
-    ((365 * 24 * 3600) // 45), # jumlah imigran baru
+    ((365 * 24 * 3600) // 45)   # jumlah imigran baru
+    ), 
     " jiwa."
     )

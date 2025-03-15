@@ -232,5 +232,14 @@
             <a href="https://www.slideshare.net/slideshow/02-21-hitung-bunga-majemuk-menggunakan-bahasa-pemrograman-python-pdf/276667190"> (Penjelasan di SlideShare) </a>
              <span> | </span>
         </li>
+        <li> 0221. Nominal Bunga Bulanan
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0222-ProyeksiPopulasi.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/02-22-proyeksi-jumlah-penduduk-c42f48fc0b88"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/02-22-proyeksi-jumlah-penduduk-menggunakan-bahasa-pemrograman-python/276725997"> (Penjelasan di SlideShare) </a>
+             <span> | </span>
+        </li>
     </ul>
 </div>

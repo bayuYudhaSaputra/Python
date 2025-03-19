@@ -248,7 +248,7 @@
             <a href="https://medium.com/@bayuyudhasaputraqed/02-23-menggambar-empat-lingkaran-c62dd1d4d968"> (Penjelasan di Medium) </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/02-23-gambar-empat-lingkaran-menggunakan-python/276929144"> (Penjelasan di SlideShare) </a>
-             <span> | </span>
+             <span> | </span> 
         </li>
     </ul>
 </div>

@@ -1,12 +1,11 @@
 '''
 ====================================================
-0223. Proyeksi Populasi
+0226. Gambar Lingkaran dan Tampilkan Luasnya
 Oleh : #bayuyudhasaputra
 ----------------------------------------------------
-Tuliskan progran yang menawarkan prompt kepada 
-pengguna untuk menginput jari-jari lingkaran. 
-Kemudian, program menggambar 4 lingkaran di 
-bagian tengah layar 
+Tuliskan program yang menawarkan prompt kepada
+pengguna. Kemudian, program mennentukan luas lingkaran
+ini dan menampilkan luasnya.
 ====================================================
 '''
 import turtle # import modul turtle

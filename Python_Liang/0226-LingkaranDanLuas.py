@@ -3,9 +3,10 @@
 0226. Gambar Lingkaran dan Tampilkan Luasnya
 Oleh : #bayuyudhasaputra
 ----------------------------------------------------
-Tuliskan program yang menawarkan prompt kepada
-pengguna. Kemudian, program mennentukan luas lingkaran
-ini dan menampilkan luasnya.
+Tuliskan program yang menawarkan prompt kepada 
+pengguna untuk menginput jari-jari lingkaran. 
+Kemudian, program menampilkan lingkaran tersebut 
+serta menampilkan luasnya.
 ====================================================
 '''
 import turtle # import modul turtle

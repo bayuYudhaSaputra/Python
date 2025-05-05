@@ -259,5 +259,14 @@
             <a href="https://www.slideshare.net/slideshow/02-26-menggambar-lingkaran-dan-menampilkan-luas-menggunakan-bahasa-pemrograman-pythonluas-pdf/277177818"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0301. Luas Segilima Beraturan
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0301-LuasSegilima.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-01-luas-segilima-62009ace4be6"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href=""> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

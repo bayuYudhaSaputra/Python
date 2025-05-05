@@ -36,6 +36,5 @@ turtle.hideturtle() # turtle disembunyikan
 
 turtle.done() # layar turtle berhenti.
 
-
 # 4 Tampilkan luas segilima
 print(output_luas)

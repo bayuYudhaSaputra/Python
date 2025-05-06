@@ -265,7 +265,7 @@
             <span> | </span>
             <a href="https://medium.com/@bayuyudhasaputraqed/03-01-luas-segilima-62009ace4be6"> (Penjelasan di Medium) </a>
             <span> | </span>
-            <a href=""> (Penjelasan di SlideShare) </a>
+            <a href="https://www.slideshare.net/slideshow/03-01-luas-segilima-menggunakan-bahasa-pemrograman-python/278769925"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
     </ul>

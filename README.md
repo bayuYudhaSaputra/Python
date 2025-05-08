@@ -268,5 +268,14 @@
             <a href="https://www.slideshare.net/slideshow/03-01-luas-segilima-menggunakan-bahasa-pemrograman-python/278769925"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0302. Great Circle Distance
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0302-GreatCircleDistance.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-02-great-circle-distance-2627936618e8"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-02-great-circle-distance-menggunakan-bahasa-pemrograman-python/278855407"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

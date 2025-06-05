@@ -277,5 +277,14 @@
             <a href="https://www.slideshare.net/slideshow/03-02-great-circle-distance-menggunakan-bahasa-pemrograman-python/278855407"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0303. Estimasi Luas Daerah
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0303-Luas4TitikGeografis.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-03-estimasi-luas-wilayah-2f6dce54c694"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-03-estimasi-luas-daerah-menggunakan-bahasa-pemrograman-python/280194022"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

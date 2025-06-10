@@ -286,5 +286,14 @@
             <a href="https://www.slideshare.net/slideshow/03-03-estimasi-luas-daerah-menggunakan-bahasa-pemrograman-python/280194022"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0304. Luas Segilima Beraturan
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0304-LuasSegilima.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-04-luas-segilima-beraturan-40799384967e"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-04-luas-segilima-beraturan-menggunakan-bahasa-pemrograman-python/280419046"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

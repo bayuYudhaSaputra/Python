@@ -10,6 +10,7 @@
 '''
 
 import math
+import turtle
 # 1. Input panjang sisi segilima
 sisi = eval(input("Input panjang sisi segilima : "))
 

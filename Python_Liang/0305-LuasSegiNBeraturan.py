@@ -20,6 +20,7 @@ sisi = eval(input("Input panjang sisi segi-n: "))
 
 # 3. Hitung luas segi-n
 luas = (n * sisi ** 2) / (4 * math.tan(math.pi / n))
+luas = round(luas, 2)
 
 # 4. Tampilkan luas
 print("Luas segi-", n,

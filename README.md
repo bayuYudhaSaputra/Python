@@ -295,5 +295,14 @@
             <a href="https://www.slideshare.net/slideshow/03-04-luas-segilima-beraturan-menggunakan-bahasa-pemrograman-python/280419046"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0305. Luas Segi-n Beraturan
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0305-LuasSegiNBeraturan.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-05-luas-segi-n-beraturan-76dbeb1e07ff"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-05-luas-segi-n-beraturan-menggunakan-bahasa-pemrograman-python-pdf/280494239"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

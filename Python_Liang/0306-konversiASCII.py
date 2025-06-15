@@ -12,7 +12,7 @@
 '''
 
 # 1. Input bilangan mulai 0 hingga 127
-kode_ascii = eval(input("Input bilangan mulai dari 0 hingga 127 : "))
+kode_ascii = eval(input("Input kode ASCII berupa bilangan integer antara 0 hingga 127 : "))
 
 # 2. Konversi kode ASCII menjadi karakter
 karakter = chr(kode_ascii)

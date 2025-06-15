@@ -304,5 +304,14 @@
             <a href="https://www.slideshare.net/slideshow/03-05-luas-segi-n-beraturan-menggunakan-bahasa-pemrograman-python-pdf/280494239"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0306. Konversi Kode ASCII
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0306-konversiASCII.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-06-konversi-kode-ascii-8a0c3bcd7157"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-06-konversi-kode-ascii-menggunakan-bahasa-pemrograman-python-pdf/280585491"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

@@ -3,23 +3,19 @@
     03.07. ASCII Random
     Oleh : #bayuyudhasaputra
     -------------------------------------------
-    Buatlah progran yang menampilkan karakter
+    Buatlah progran yang menampilkan huruf 
+    kapital
     sesuai dengan kode ASCII mulai dari 0
     hingga 127 secara random.
     ===========================================
 '''
-
-import time
 import random
 
-# 1. Jalankan seed (pengubah waktu random)
-seed = int(time.time())
+# 1. membangkitkan bilangan random tidak kurang dari 65 dan tidak lebih dari 90.
+kode_ascii = random.randint(65, 90)
 
-# 2. Buat kode ASCII
-kode_ascii = seed % 127
-
-# 3. Konversi kode ASCII ke dalam karakter
+# 2 Mengonversi kode ASCII menjadi huruf kapital
 karakter = chr(kode_ascii)
 
-# 4. Tampilkan karakter random
-print("Hasil karakter random adalah", karakter)
+# 3. Menampilkan huruf kapital random
+print("Huruf kapital random yang dihasilkan adalah : ", karakter)

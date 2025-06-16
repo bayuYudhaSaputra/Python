@@ -313,5 +313,14 @@
             <a href="https://www.slideshare.net/slideshow/03-06-konversi-kode-ascii-menggunakan-bahasa-pemrograman-python-pdf/280585491"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0307. Karakter ASCII Random
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0307-ASCIIRandom.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href=""> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href=""> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

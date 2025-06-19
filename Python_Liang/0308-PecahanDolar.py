@@ -56,5 +56,3 @@ print("Uang sebesar USD", jumlah, "dapat dinyatakan dalam:", "\n",
       "\t", nickel, "koin uang nickel;", "\n",
       "\t", penny, "koin uang penny.", "\n"
       )
-
-

@@ -326,9 +326,9 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0308-PecahanDolar.py"> (Baris kode) </a>
             <span> | </span>
-            <a href=""> (Penjelasan di Medium) </a>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-08-pecahan-us-dolar-0f9b4f727178"> (Penjelasan di Medium) </a>
             <span> | </span>
-            <a href=""> (Penjelasan di SlideShare) </a>
+            <a href="https://www.slideshare.net/slideshow/03-08-pecahan-mata-uang-usd-menggunakan-bahasa-pemrograman-python-pdf/280772037"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
     </ul>

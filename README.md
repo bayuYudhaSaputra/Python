@@ -322,5 +322,14 @@
             <a href="https://www.slideshare.net/slideshow/03-07-menampilkan-huruf-kapital-secara-random-menggunakan-bahasa-pemrograman-python-pdf/280642192"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0308. Konversi mata uang USD ke dalam unit yang lebih kecil
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0308-PecahanDolar.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href=""> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href=""> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

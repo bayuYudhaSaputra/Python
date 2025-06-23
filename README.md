@@ -331,5 +331,14 @@
             <a href="https://www.slideshare.net/slideshow/03-08-pecahan-mata-uang-usd-menggunakan-bahasa-pemrograman-python-pdf/280772037"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0309. Pembayaran Gaji
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0309-PembayaranGaji.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href=""> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href=""> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

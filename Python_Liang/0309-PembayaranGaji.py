@@ -34,7 +34,7 @@
 
 '''
 
-# 1. Buat input
+# 1. Input nama, jam kerja per minggu, gaji per jam, persentase pajak penghasilan dan pajak penghasilan daerah
 nama = input("Input nama karyawan : ")
 jam_kerja = eval(input("Input jam kerja per minggu : "))
 gaji_per_jam = eval(input("Input gaji per jam : Rp"))

@@ -59,15 +59,14 @@ gaji_bersih = gaji_kotor - pengurang
 # 7. Tampilkan output
 print(
     "==================================================", "\n",
-    "Nama karyawan : ", nama, "\n",
-    "Jam kerja per minggu : ", jam_kerja, "\n",
-    "Nominal gaji per jam : Rp", gaji_per_jam, "\n",
-    "Nominal gaji kotor : Rp", gaji_kotor, "\n",
-    "Gaji kotor : Rp",gaji_kotor, "\n",
-    "Pengurang: \n",
-      "\t Pajak penghasilan : Rp", pph, "\n",
-      "\t Pajak penghasilan daerah : Rp", pajak_daerah, "\n",
+    format("Nama karyawan", "25s"), ":", nama, "\n",
+    format("Jam kerja per minggu", "25s"), ":", jam_kerja, "\n",
+    format("Gaji per jam", "25s"), ": Rp", format(gaji_per_jam, ".2f"), "\n",
+    format("Gaji kotor", "25s"), ": Rp",format(gaji_kotor, ".2f"), "\n",
+    "Pengurang \n",
+        "\t", format("Pajak penghasilan", "25s"), ": Rp", format(pph, ".2f"), "\n",
+        "\t", format("Pajak penghasilan daerah", "25s"), ": Rp", format(pajak_daerah, ".2f"), "\n",
     "--------------------------------------------------", "\n",
-    "Gaji bersih : Rp", gaji_bersih, "\n",
+    format("Gaji bersih ", "25s"), ": Rp", format(gaji_bersih, ".2f"), "\n",
     "==================================================", "\n"
       )

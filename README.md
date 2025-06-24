@@ -335,9 +335,9 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0309-PembayaranGaji.py"> (Baris kode) </a>
             <span> | </span>
-            <a href=""> (Penjelasan di Medium) </a>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-09-pembayaran-gaji-menggunakan-python-9415a814c6cf"> (Penjelasan di Medium) </a>
             <span> | </span>
-            <a href=""> (Penjelasan di SlideShare) </a>
+            <a href="https://www.slideshare.net/slideshow/03-09-pembayaran-gaji-menggunakan-bahasa-pemrograman-python-pdf/280939289"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
     </ul>

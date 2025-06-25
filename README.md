@@ -340,5 +340,14 @@
             <a href="https://www.slideshare.net/slideshow/03-09-pembayaran-gaji-menggunakan-bahasa-pemrograman-python-pdf/280939289"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0310. Tampilkan Kode Unicode
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0310-tampilkanUnicode.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href=""> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href=""> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

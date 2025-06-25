@@ -344,9 +344,18 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0310-tampilkanUnicode.py"> (Baris kode) </a>
             <span> | </span>
-            <a href=""> (Penjelasan di Medium) </a>
+            <a href="#"> (Penjelasan di Medium) </a>
             <span> | </span>
-            <a href=""> (Penjelasan di SlideShare) </a>
+            <a href="#"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
+        <li> 0311. Membalik Digit Bilangan
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0311-pembalikanDigitBilangan.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="#"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="#"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
     </ul>

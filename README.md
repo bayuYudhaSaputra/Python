@@ -344,9 +344,9 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0310-tampilkanUnicode.py"> (Baris kode) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di Medium) </a>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-10-tampilkan-8-abjad-yunani-27b6bcc79d20"> (Penjelasan di Medium) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di SlideShare) </a>
+            <a href="https://www.slideshare.net/slideshow/03-10-tampilkan-8-abjad-yunani-menggunakan-bahasa-pemrograman-python-pdf/281095476"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
         <li> 0311. Membalik Digit Bilangan

@@ -353,9 +353,9 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0311-pembalikanDigitBilangan.py"> (Baris kode) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di Medium) </a>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-11-pembalikan-digit-bilangan-5a7b6a616c62"> (Penjelasan di Medium) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di SlideShare) </a>
+            <a href="https://www.slideshare.net/slideshow/03-11-pembalikan-digit-bilangan-menggunakan-bahasa-pemrograman-python-pdf/281161361"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
     </ul>

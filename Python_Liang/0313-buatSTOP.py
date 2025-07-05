@@ -1,17 +1,19 @@
 '''
-=============================================================================================================
+===============================================================================================
 Programming Exercise 03.13
 Oleh      : #bayuyudhasaputra
 Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel/dp/0132747189
--------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 03.13. Membuat Tanda STOP
-    (Tuliskan soal di sini)
-==============================================================================================================
+    Tuliskan program yang menampilkan tanda STOP dalam layar Turtle. 
+    Tanda STOP ini terdiri dari segienam beraturan berwarna merah dan 
+    tulisan STOP di dalamnya dengan warna putih.
+================================================================================================
 '''
 
 import turtle # import modul turtle
 
-# 1. Buat bangun bangun Segienam beraturan
+# 1. Buat bangun Segienam beraturan
 turtle.penup()
 turtle.goto(-200,0)
 turtle.pendown()
@@ -49,13 +51,10 @@ turtle.end_fill() # Tanda akhir pewarnaan
 turtle.penup()
 turtle.goto(-140,-60)
 turtle.pendown()
-turtle.begin_fill()
-turtle.color("white")
+turtle.begin_fill() # tanda dimulainya pewarnaan
+turtle.color("white") # putih
 turtle.write("STOP", font= ("Arial", 81, "normal"))
-turtle.end_fill()
-
+turtle.end_fill() # tanda diakhirinya tanda pewarnaan putih
 turtle.hideturtle() # sembunyikan turtle
-
-
 
 turtle.done()

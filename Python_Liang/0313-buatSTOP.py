@@ -40,6 +40,7 @@ turtle.forward(200)
 turtle.left(60)
 turtle.forward(200)
 
+
 # 1f. Sisi ke-6
 turtle.left(60)
 turtle.forward(200)

@@ -367,5 +367,14 @@
             <a href="https://www.slideshare.net/slideshow/03-12-menggambar-bintang-menggunakan-bahasa-pemrograman-python-pdf/281206550"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0313. Gambar Tanda STOP
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0313-buatSTOP.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-13-membuat-tanda-stop-fdedc3b17b33"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-13-membuat-tanda-stop-menggunakan-bahasa-pemrograman-python-pdf/281350040"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

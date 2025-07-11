@@ -16,12 +16,12 @@ import turtle # import modul turtle
 
 # 1. Input jari2 lingkaran
 jari2 = eval(input("Input panjang jari-jari logo Olimpiade : "))
-turtle.pensize(jari2 / 10)
+turtle.pensize(jari2 / 10) # atur ketebalan pena
 
 
 # 2. Buat lingkaran pertama
-x = -(23 / 10) * jari2
-y = (1 / 2) * jari2
+x = -(23 / 10) * jari2 # absis posisi
+y = (1 / 2) * jari2 # ordinat posisi
 turtle.penup()
 turtle.goto(x,y)
 turtle.pendown()
@@ -29,8 +29,8 @@ turtle.color("blue")
 turtle.circle(jari2)
 
 # 3. Buat lingkaran kedua
-x = 0 * jari2
-y = (1 / 2) * jari2
+x = 0 * jari2 # absis posisi
+y = (1 / 2) * jari2 # ordinat posisi
 turtle.penup()
 turtle.goto(x,y)
 turtle.pendown()
@@ -38,8 +38,8 @@ turtle.color("black")
 turtle.circle(jari2)
 
 # 4. Buat lingkaran ketiga
-x = (23 / 10) * jari2
-y = (1 / 2) * jari2
+x = (23 / 10) * jari2 # absis posisi
+y = (1 / 2) * jari2 # ordinat posisi
 turtle.penup()
 turtle.goto(x,y)
 turtle.pendown()
@@ -48,8 +48,8 @@ turtle.circle(jari2)
 
 
 # 5. Buat lingkaran keempat
-x = -(12 / 10) * jari2
-y = -(1 / 2) * jari2
+x = -(12 / 10) * jari2 # absis posisi
+y = -(1 / 2) * jari2 # ordinat posisi
 turtle.penup()
 turtle.goto(x,y)
 turtle.pendown()
@@ -57,8 +57,8 @@ turtle.color("yellow")
 turtle.circle(jari2)
 
 # 6. Buat lingkaran kelima
-x = (12 / 10) * jari2
-y = -(1 / 2) * jari2
+x = (12 / 10) * jari2 # absis posisi
+y = -(1 / 2) * jari2 # ordinat posisi
 turtle.penup()
 turtle.goto(x,y)
 turtle.pendown()

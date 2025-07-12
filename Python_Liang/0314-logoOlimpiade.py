@@ -46,7 +46,6 @@ turtle.pendown()
 turtle.color("red")
 turtle.circle(jari2)
 
-
 # 5. Buat lingkaran keempat
 x = -(12 / 10) * jari2 # absis posisi
 y = -(1 / 2) * jari2 # ordinat posisi
@@ -64,6 +63,7 @@ turtle.goto(x,y)
 turtle.pendown()
 turtle.color("green")
 turtle.circle(jari2)
+
 
 turtle.hideturtle()
 

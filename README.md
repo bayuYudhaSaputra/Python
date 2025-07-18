@@ -376,5 +376,14 @@
             <a href="https://www.slideshare.net/slideshow/03-13-membuat-tanda-stop-menggunakan-bahasa-pemrograman-python-pdf/281350040"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0314. Gambar Tanda STOP
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0314-logoOlimpiade.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-14-membuat-logo-olimpiade-6c7361f5a19b"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-14-membuat-logo-olimpiade-menggunakan-bahasa-pemrograman-python-pdf/281736186"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

@@ -47,6 +47,13 @@ turtle.pendown()
 turtle.goto(0,-70)
 turtle.goto(45,-45)
 
+# 5. Buat hidung
+turtle.penup()
+turtle.goto(-35,-35)
+turtle.pendown()
+turtle.goto(0,10)
+turtle.goto(35,-35)
+
 
 turtle.hideturtle()
 turtle.done()

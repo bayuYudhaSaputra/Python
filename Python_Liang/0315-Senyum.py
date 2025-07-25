@@ -5,7 +5,7 @@ Oleh      : #bayuyudhasaputra
 Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel/dp/0132747189
 -------------------------------------------------------------------------------------------------------------
 03.15. Emoji Senyum
-    Buatlah program untuk menggambar emoji senyun
+    Buatlah program untuk menggambar emoji senyum
 ==============================================================================================================
 '''
 

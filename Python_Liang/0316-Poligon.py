@@ -11,35 +11,38 @@ Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel/
 '''
 
 import turtle # import modul turtle
+import math # impor modul math
 
 turtle.pensize(2)
 
 # 1. Buat segitiga sama sisi
+sisiSegi3 = 120
 turtle.penup()
 turtle.goto(-400, -100)
 turtle.pendown()
 turtle.begin_fill()
-turtle.forward(100)
+turtle.forward(sisiSegi3)
 turtle.left(120)
-turtle.forward(100)
+turtle.forward(sisiSegi3)
 turtle.left(120)
-turtle.forward(100)
+turtle.forward(sisiSegi3)
 turtle.fillcolor("red")
 turtle.end_fill()
 turtle.left(120) # kursor dikembalikan ke arah kanan
 
 # 2. Buat persegi
+sisiSegi4 = sisiSegi3 * math.cos(math.pi / 6) # pi / 6 = 60 derajat
 turtle.penup()
 turtle.goto(-275, -100)
 turtle.pendown()
 turtle.begin_fill()
-turtle.forward(100)
+turtle.forward(sisiSegi4)
 turtle.left(90)
-turtle.forward(100)
+turtle.forward(sisiSegi4)
 turtle.left(90)
-turtle.forward(100)
+turtle.forward(sisiSegi4)
 turtle.left(90)
-turtle.forward(100)
+turtle.forward(sisiSegi4)
 turtle.fillcolor("#FFA500")
 turtle.end_fill()
 turtle.left(90) # Kursor dikembalikan ke arah kanan
@@ -106,5 +109,6 @@ turtle.fillcolor("blue")
 turtle.end_fill()
 turtle.left(45)
 
+turtle.hideturtle() # menyembunyikan pena turtle
 
 turtle.done()

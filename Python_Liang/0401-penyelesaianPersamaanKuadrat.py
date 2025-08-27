@@ -12,9 +12,9 @@ Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel/
 '''
 
 # 1. Input koefisien x^2 dan x serta konstanta c dari persamaan kuadrat
-a = eval(input("Input koefisien x kuadrat :"))
-b = eval(input("Input koefisien x :"))
-c = eval(input("Input konstanta :"))
+a = eval(input("Input koefisien x kuadrat : "))
+b = eval(input("Input koefisien x : "))
+c = eval(input("Input konstanta : "))
 
 # 2. Hitung determinan
 D = b ** 2 - 4 * a * c

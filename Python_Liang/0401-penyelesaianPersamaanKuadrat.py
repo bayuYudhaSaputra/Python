@@ -16,7 +16,7 @@ a = eval(input("Input koefisien x kuadrat : "))
 b = eval(input("Input koefisien x : "))
 c = eval(input("Input konstanta : "))
 
-# 2. Hitung determinan
+# 2. Hitung diskriminan
 D = b ** 2 - 4 * a * c
 
 # 3. Tentukan akar

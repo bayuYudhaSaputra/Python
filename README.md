@@ -385,5 +385,14 @@
             <a href="https://www.slideshare.net/slideshow/03-14-membuat-logo-olimpiade-menggunakan-bahasa-pemrograman-python-pdf/281736186"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0401. Persamaan Kuadrat
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0401-penyelesaianPersamaanKuadrat.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-01-persamaan-kuadrat-menggunakan-bahasa-pemrograman-python-27042579e91e"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/04-01-persamaan-kuadrat-menggunakan-bahasa-pemrograman-python-pdf/282739489"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

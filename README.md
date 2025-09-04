@@ -394,5 +394,14 @@
             <a href="https://www.slideshare.net/slideshow/04-01-persamaan-kuadrat-menggunakan-bahasa-pemrograman-python-pdf/282739489"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0402. Game Penjumlahan
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0402-gamePenjumlahan.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-02-game-penjumlahan-ff451003ddf0"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/04-02-game-penjumlahan-menggunakan-bahasa-pemrograman-python-pdf/282921225"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

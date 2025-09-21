@@ -1,14 +1,15 @@
 '''
-================================================================================
+===============================================================================
 Programming Exercise 04.03
 Oleh      : #bayuyudhasaputra
-Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel/dp/013274718
---------------------------------------------------------------------------------
+Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel
+/dp/013274718
+-------------------------------------------------------------------------------
 04.03. Sistem Persamaan Linier Dua Variabel
 Buatlah program untuk menentukan solusi dari sistem persamaan linier dua
 variabel. Pengguna menginput koefisien dari variabe; dan konstanta
 persamaan linier ini.
-================================================================================
+===============================================================================
 '''
 
 # 1. Input koefisien dan konstanta persamaan ke-1

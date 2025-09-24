@@ -63,13 +63,13 @@ else:
 
 print("-------------------------------------------------------------")
 
-# 4. Input koefisien dan konstanta persamaan ke-2
+# 3. Input koefisien dan konstanta persamaan ke-2
 
 c = eval(input("Input koefisien x persamaan ke-2: "))
 d = eval(input("Input kefisien y persamaan ke-2: "))
 f = eval(input("Input konstanta persamaan ke-2: "))
 
-# 5. Tampilkan persamaan ke-2
+# 4. Tampilkan persamaan ke-2
 
 print("-------------------------------------------------------------")
 
@@ -110,11 +110,11 @@ else:
 print("-------------------------------------------------------------")
 
 
-# 6. Hitung ad - bc
+# 5. Hitung ad - bc
 
 penyebutSolusi = a * d - b * c
 
-# 7. Cek ad - bc
+# 6. Cek ad - bc
 
 if penyebutSolusi == 0:
     print("Persamaan linier 1 dan 2 tidak mempunyai solusi.")

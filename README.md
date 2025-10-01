@@ -403,5 +403,14 @@
             <a href="https://www.slideshare.net/slideshow/04-02-game-penjumlahan-menggunakan-bahasa-pemrograman-python-pdf/282921225"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0403. Sistem Persamaan Linier Dua Variabel
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0403-SPLDV.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-03-sistem-persamaan-linier-menggunakan-python-a3ea7c08126a"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0403-sistem-persamaan-linier-dua-variabel-menggunakan-python-pdf/283551828"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

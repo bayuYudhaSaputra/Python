@@ -412,5 +412,14 @@
             <a href="https://www.slideshare.net/slideshow/0403-sistem-persamaan-linier-dua-variabel-menggunakan-python-pdf/283551828"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0404. Permainan Penjumlahan
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0404-penjumlahan.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-04-permainan-penjumlahan-63624ed9f027"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0404-permainan-penjumlahan-menggunakan-python-pdf/283716764"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

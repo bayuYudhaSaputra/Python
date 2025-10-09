@@ -259,6 +259,10 @@
             <a href="https://www.slideshare.net/slideshow/02-26-menggambar-lingkaran-dan-menampilkan-luas-menggunakan-bahasa-pemrograman-pythonluas-pdf/277177818"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+    </ul>
+    <h3> Chapter 03 </h3>
+    <p> Programming exercise : </p>
+    <ul>
         <li> 0301. Luas Segilima Beraturan
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0301-LuasSegilima.py"> (Baris kode) </a>
@@ -385,6 +389,10 @@
             <a href="https://www.slideshare.net/slideshow/03-14-membuat-logo-olimpiade-menggunakan-bahasa-pemrograman-python-pdf/281736186"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+    </ul>
+    <h3> Chapter 04 </h3>
+    <p> Programming exercise : </p>
+    <ul>
         <li> 0401. Persamaan Kuadrat
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0401-penyelesaianPersamaanKuadrat.py"> (Baris kode) </a>
@@ -422,4 +430,5 @@
              <span> | </span> 
         </li>
     </ul>
+
 </div>

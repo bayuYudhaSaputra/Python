@@ -429,6 +429,14 @@
             <a href="https://www.slideshare.net/slideshow/0404-permainan-penjumlahan-menggunakan-python-pdf/283716764"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0405. Tebak Nama Hari
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0405-tebakNamaHari.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="#"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="#"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
-
 </div>

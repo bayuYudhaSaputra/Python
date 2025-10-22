@@ -15,6 +15,8 @@ Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel
 ===============================================================================
 '''
 
+import sys
+
 # 1. Input index hari
 keterangan = ("Input bilangan integer yang merepresentasikan nama hari "
          "dengan ketentuan: \n"
@@ -56,6 +58,7 @@ elif indexHariIni == 6:
     print("Hari ini adalah hari", namaHariIni)
 else:
     print("Input angka 0 hingga 6 saja!")
+    sys.exit()
 
 # 3. Input bilangan yang menyatakan "berapa hari dari sekarang?"
 keterangan = ("Input bilangan yang menyatakan "
@@ -63,33 +66,38 @@ keterangan = ("Input bilangan yang menyatakan "
               )
 banyakHariEsok = eval(input(keterangan))
 
-# 4. Jumlahkan
-jumlah = indexHariIni + banyakHariEsok
+if banyakHariEsok >= 0:
+    # 4. Jumlahkan
+    jumlah = indexHariIni + banyakHariEsok
 
-# 5. Tentukan indeks hari esok
-indexHariEsok = jumlah % 7
+    # 5. Tentukan indeks hari esok
+    indexHariEsok = jumlah % 7
 
-# 6. Tentukan nama hari esok
-print("------------------------------------------------------------------------")
-if indexHariEsok == 0:
-    namaHariEsok = "Senin"
-    print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
-elif indexHariEsok == 1:
-    namaHariEsok = "Selasa"
-    print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
-elif indexHariEsok == 2:
-    namaHariEsok = "Rabu"
-    print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
-elif indexHariEsok == 3:
-    namaHariEsok = "Kamis"
-    print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
-elif indexHariEsok == 4:
-    namaHariEsok = "Jumat"
-    print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
-elif indexHariEsok == 5:
-    namaHariEsok = "Sabtu"
-    print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
-elif indexHariEsok == 6:
-    namaHariEsok = "Minggu"
-    print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
+    # 6. Tentukan nama hari esok
+    print("-------------------------------------------------------------------")
+    if indexHariEsok == 0:
+        namaHariEsok = "Senin"
+        print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
+    elif indexHariEsok == 1:
+        namaHariEsok = "Selasa"
+        print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
+    elif indexHariEsok == 2:
+        namaHariEsok = "Rabu"
+        print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
+    elif indexHariEsok == 3:
+        namaHariEsok = "Kamis"
+        print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
+    elif indexHariEsok == 4:
+        namaHariEsok = "Jumat"
+        print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
+    elif indexHariEsok == 5:
+        namaHariEsok = "Sabtu"
+        print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
+    elif indexHariEsok == 6:
+        namaHariEsok = "Minggu"
+        print(banyakHariEsok, "hari lagi adalah ", namaHariEsok)
+else:
+    print("Input bilangan bulat non-negatif")
+    sys.exit()
+    
 print("========================================================================")

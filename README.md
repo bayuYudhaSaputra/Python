@@ -438,5 +438,14 @@
             <a href="https://www.slideshare.net/slideshow/04-05-menemukan-nama-hari-menggunakan-python/283883475"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0406. Menghitung BMI
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0406-HitungBMI.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-06-menghitung-bmi-1c151c4fb5db"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0406-menentukan-bmi-menggunakan-python-pdf/284164792"> (Penjelasan di SlideShare) </a>
+             <span> | </span> 
+        </li>
     </ul>
 </div>

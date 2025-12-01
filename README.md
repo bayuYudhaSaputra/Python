@@ -447,5 +447,12 @@
             <a href="https://www.slideshare.net/slideshow/0406-menentukan-bmi-menggunakan-python-pdf/284164792"> (Penjelasan di SlideShare) </a>
              <span> | </span> 
         </li>
+        <li> 0407. Monetary Units
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0407-MonetaryUnit.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-07-monetary-units-a2564b728f80"> (Penjelasan di Medium) </a>
+            <span> | </span>
+        </li>
     </ul>
 </div>

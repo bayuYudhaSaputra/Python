@@ -454,5 +454,14 @@
             <a href="https://medium.com/@bayuyudhasaputraqed/04-07-monetary-units-a2564b728f80"> (Penjelasan di Medium) </a>
             <span> | </span>
         </li>
+        <li> 0409. Membandingkan Harga
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0409-CompareCost.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-09-membandingkan-harga-bd1884fe8f0f"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0409-bandingkan-harga-menggunakan-python-pdf/284799286"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li>
     </ul>
 </div>

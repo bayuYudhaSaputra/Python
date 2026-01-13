@@ -463,5 +463,14 @@
             <a href="https://www.slideshare.net/slideshow/0409-bandingkan-harga-menggunakan-python-pdf/284799286"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
+         <li> 0410. Kuis Perkalian
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0410-KuisPerkalian.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-10-kuis-perkalian-f683e9bd7be1"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/04-10-kuis-perkalian-menggunakan-bahasa-pemrograman-python/285196225"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li>
     </ul>
 </div>

@@ -472,5 +472,14 @@
             <a href="https://www.slideshare.net/slideshow/04-10-kuis-perkalian-menggunakan-bahasa-pemrograman-python/285196225"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
+         <li> 0411. Menemukan Bulan dan Tahun
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0411-temukanBulanTahun.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-11-menemukan-bulan-dan-tahun-3190982217db"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0411-menemukan-bulan-dan-tahun-menggunakan-bahasa-pemrograman-python-pdf/285687222"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li>
     </ul>
 </div>

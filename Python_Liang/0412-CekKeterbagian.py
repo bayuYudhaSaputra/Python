@@ -18,7 +18,7 @@ import sys
 bilangan = int(input("Input bilangan integer positif: "))
 print("Anda menginput bilangan ", bilangan)
 
-# 2. Cek Keterbagian kedua bilangan
+# 2. Cek Keterbagian bilangan
 if (bilangan <= 0):
     # cek, apakah pengguna menginput integer positif?
     print("Peringatan : Input bilangan integer positif saja!!")

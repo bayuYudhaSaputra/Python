@@ -16,7 +16,7 @@ import sys
 
 # 1. Input 1 bilangan integer positif
 bilangan = int(input("Input bilangan integer positif: "))
-print("Anda menginput bilangan ", bilangan)
+print("Anda menginput bilangan", bilangan)
 
 # 2. Cek Keterbagian bilangan
 if (bilangan <= 0):
@@ -24,41 +24,16 @@ if (bilangan <= 0):
     print("Peringatan : Input bilangan integer positif saja!!")
     sys.exit() # program keluar
 
-elif (bilangan % 5 == 0) and (bilangan % 6 == 0):
-    pesan1 = "Apakah " + str(bilangan) + " habis dibagi 5 dan 6? " + \
-            str((bilangan % 5 == 0) and (bilangan % 6 == 0))
-    pesan2 = "Apakah " + str(bilangan) + " habis dibagi 5 atau 6? " + \
-            str((bilangan % 5 == 0) or (bilangan % 6 == 0))
-    pesan3 = "Apakah " + str(bilangan) + " habis dibagi 5 saja atau 6 saja? " + \
-            str((bilangan % 5 == 0) ^ (bilangan % 6 == 0))
-            
-elif (bilangan % 5 == 0) or (bilangan % 6 == 0):
-    pesan1 = "Apakah " + str(bilangan) + " habis dibagi 5 dan 6? " + \
-            str((bilangan % 5 == 0) and (bilangan % 6 == 0))
-    pesan2 = "Apakah " + str(bilangan) + " habis dibagi 5 atau 6? " + \
-            str((bilangan % 5 == 0) or (bilangan % 6 == 0))
-    pesan3 = "Apakah " + str(bilangan) + " habis dibagi 5 saja atau 6 saja? " + \
-            str((bilangan % 5 == 0) ^ (bilangan % 6 == 0))
-
-elif (bilangan % 5 == 0) ^ (bilangan % 6 == 0):
-    pesan1 = "Apakah " + str(bilangan) + " habis dibagi 5 dan 6? " + \
-            str((bilangan % 5 == 0) and (bilangan % 6 == 0))
-    pesan2 = "Apakah " + str(bilangan) + " habis dibagi 5 atau 6? " + \
-            str((bilangan % 5 == 0) or (bilangan % 6 == 0))
-    pesan3 = "Apakah " + str(bilangan) + " habis dibagi 5 saja atau 6 saja? " + \
-            str((bilangan % 5 == 0) ^ (bilangan % 6 == 0))
-
 else: 
-    pesan1 = "Apakah  " + str(bilangan) + " habis dibagi 5 dan 6?" + \
+    pesan1 = "Apakah " + str(bilangan) + " habis dibagi 5 dan 6? " + \
             str((bilangan % 5 == 0) and (bilangan % 6 == 0))
-    pesan2 = "Apakah " + str(bilangan) + " habis dibagi 5 atau 6?" + \
+    pesan2 = "Apakah " + str(bilangan) + " habis dibagi 5 atau 6? " + \
             str((bilangan % 5 == 0) or (bilangan % 6 == 0))
-    pesan3 = "Apakah " + str(bilangan) + " habis dibagi 5 saja atau 6 saja?" + \
+    pesan3 = "Apakah " + str(bilangan) + " habis dibagi 5 saja atau 6 saja? " + \
             str((bilangan % 5 == 0) ^ (bilangan % 6 == 0))
 
 # 3. Tampilkan output
 print(pesan1)
 print(pesan2)
 print(pesan3)
-
 

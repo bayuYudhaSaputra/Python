@@ -481,5 +481,14 @@
             <a href="https://www.slideshare.net/slideshow/0411-menemukan-bulan-dan-tahun-menggunakan-bahasa-pemrograman-python-pdf/285687222"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
+         <li> 0412. Mengecek Keterbagian
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0412-CekKeterbagian.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-12-cek-keterbagian-e691fc0fe848"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0412-cek-keterbagian-menggunakan-python-pdf/285985661"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li> 
     </ul>
 </div>

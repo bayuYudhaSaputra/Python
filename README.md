@@ -492,7 +492,8 @@
          </li>
          <li> 0414. Game Tebak Mata Koin 
             <span> | </span>
-            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0414-GambarAtauAngka.py"> (Baris kode) </a> 
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0414-GambarAtauAngka.py"> (Baris kode) </a>
+            <span> | </span>
          </li>
     </ul>
 </div>

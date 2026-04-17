@@ -489,6 +489,10 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/0412-cek-keterbagian-menggunakan-python-pdf/285985661"> (Penjelasan di SlideShare) </a>
             <span> | </span>
-         </li> 
+         </li>
+         <li> 0414. 
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0414-GambarAtauAngka.py"> (Baris kode) </a> 
+         </li>
     </ul>
 </div>

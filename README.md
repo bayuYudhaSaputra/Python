@@ -496,7 +496,7 @@
             <span> | </span>
             <a href="https://medium.com/@bayuyudhasaputraqed/04-14-permainan-tebak-koin-6095f2a4fd6b"> (Penjelasan di Medium) </a>
             <span> | </span>
-            <a href=" "> (Penjelasan di SlideShare) </a>
+            <a href="https://www.slideshare.net/slideshow/04-14-permainan-menebak-koin-menggunakan-python/287116170"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
     </ul>

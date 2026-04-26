@@ -11,7 +11,6 @@ Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel
 ================================================================================
 '''
 
-import sys
 # 1. Input tiga  integer
 bilangan1 = eval(input("Input integer pertama : "))
 bilangan2 = eval(input("Input integer kedua : "))

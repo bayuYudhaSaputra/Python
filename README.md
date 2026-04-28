@@ -454,6 +454,15 @@
             <a href="https://medium.com/@bayuyudhasaputraqed/04-07-monetary-units-a2564b728f80"> (Penjelasan di Medium) </a>
             <span> | </span>
         </li>
+        <li> 0408. Urutkan Tiga Integer
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0408-UrutkanInteger.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-08-mengurutkan-tiga-integer-b779fbf7fce8"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0408-mengurutkan-tiga-integer-menggunakan-python-pdf/287236232"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+        </li> 
         <li> 0409. Membandingkan Harga
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0409-CompareCost.py"> (Baris kode) </a>

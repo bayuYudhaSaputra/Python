@@ -43,7 +43,7 @@ elif (bilangan3 < bilangan2 < bilangan1):
     # Tukar nilai bilangan1 dengan bilangan3
 
 # 3. Tampilkan hasil pengurutan
-print("Urutan bilangan terbesar hingga terkecil:")
+print("Urutan bilangan mulai dari terkecil hingga terbesar:")
 print(bilangan1, ",", bilangan2, ",", bilangan3, ".")
 
 

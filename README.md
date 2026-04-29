@@ -508,5 +508,14 @@
             <a href="https://www.slideshare.net/slideshow/04-14-permainan-menebak-koin-menggunakan-python/287116170"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
+         <li> 0415. Lotre Tiga Digit 
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0415-LotreTigaDigit.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="#"> (Penjelasan di Medium) </a>
+            <span> | </span>
+            <a href="#"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li>
     </ul>
 </div>

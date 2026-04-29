@@ -19,8 +19,7 @@ Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel
 import sys, random
 
 # 1. Acak angka lotre
-# lotre = random.randint(99, 1000)
-lotre = 123
+lotre = random.randint(99, 1000)
 
 # 2. Input angka tebakan
 tebakan = eval(input("Tebak angka apa yang keluar? "))
@@ -41,10 +40,6 @@ lotreSisa %= 10
 
 # 3c. Ekstrak satuan angka lotre
 lotreSatuan = lotreSisa
-print("lotre ratusan : ", lotreRatusan)
-print("lotre puluhan : ", lotrePuluhan)
-print("lotre satuan : ", lotreSatuan)
-
 
 # 4. Ekstrak digit2 angka tebakan
 # 4a. Ekstrak ratusan angka tebakan
@@ -57,10 +52,6 @@ tebakanSisa %= 10
 
 # 4c. Ekstrak satuan angka tebakan
 tebakanSatuan = tebakanSisa
-
-print("tebakan ratusan : ", tebakanRatusan)
-print("tebakan puluhan : ", tebakanPuluhan)
-print("tebakan satuan : ", tebakanSatuan)
 
 # 5. Bandingkan angka lotre dengan tebakan dan tampilkan hasil
 print("Nomor lotre yang keluar: ", lotre)
@@ -98,5 +89,4 @@ elif (lotreRatusan == tebakanRatusan or \
 
 else:
     print("Maaf.. Anda belum beruntung..!")
-
 

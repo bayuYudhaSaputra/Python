@@ -19,7 +19,7 @@ Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel
 import sys, random
 
 # 1. Acak angka lotre
-lotre = random.randint(99, 1000)
+lotre = random.randint(100, 900)
 
 # 2. Input angka tebakan
 tebakan = eval(input("Tebak angka apa yang keluar? "))

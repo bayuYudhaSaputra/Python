@@ -512,9 +512,9 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0415-LotreTigaDigit.py"> (Baris kode) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di Medium) </a>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-15-tebak-lotre-tiga-digit-053b309b7424"> (Penjelasan di Medium) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di SlideShare) </a>
+            <a href="https://www.slideshare.net/slideshow/04-15-tebak-lotre-tiga-digit-menggunakan-python/287465360"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
     </ul>

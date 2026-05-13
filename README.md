@@ -517,5 +517,10 @@
             <a href="https://www.slideshare.net/slideshow/04-15-tebak-lotre-tiga-digit-menggunakan-python/287465360"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
+         <li> 0416. Huruf Kecil Acak
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0416-AcakKarakter.py "> (Baris kode) </a>
+            <span> | </span> 
+         </li>
     </ul>
 </div>

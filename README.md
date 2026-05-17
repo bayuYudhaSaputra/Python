@@ -519,7 +519,12 @@
          </li>
          <li> 0416. Huruf Kecil Acak
             <span> | </span>
-            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0416-AcakKarakter.py "> (Baris kode) </a>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0416-AcakKarakter.py"> (Baris kode) </a>
+            <span> | </span> 
+         </li>
+         <li> 0417. Permainan Batu, Gunting, Kertas
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0417-BatuGuntingKertas.py"> (Baris kode) </a>
             <span> | </span> 
          </li>
     </ul>

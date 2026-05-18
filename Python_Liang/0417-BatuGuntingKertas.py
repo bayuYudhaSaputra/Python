@@ -16,7 +16,7 @@ Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel
 ================================================================================
 '''
 
-import random
+import random, sys
 
 # 1. Tentukan pilihan komputer
 angkaKomputer = random.randint(0, 2)
@@ -39,6 +39,7 @@ elif angkaPengguna == 2:
     pilihanPengguna = "kertas"
 else:
     print("Hanya boleh input 0, 1, atau 2 saja..!")
+    sys.exit() # keluar
 
 # 3. Bandingkan pilihan komputer dengan pengguna
 if pilihanKomputer == pilihanPengguna:

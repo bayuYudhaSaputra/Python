@@ -525,7 +525,11 @@
          <li> 0417. Permainan Batu, Gunting, Kertas
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0417-BatuGuntingKertas.py"> (Baris kode) </a>
-            <span> | </span> 
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-17-permainan-batu-gunting-kertas-c91bfeb48a58"> (Penjelasan di Medium) </a> 
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0417-permainan-batu-gunting-kertas-menggunakan-python-pdf/287609066"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
          </li>
     </ul>
 </div>

@@ -21,6 +21,7 @@ import random, sys
 # 1. Tentukan pilihan komputer
 angkaKomputer = random.randint(0, 2)
 
+
 if angkaKomputer == 0:
     pilihanKomputer = "gunting"
 elif angkaKomputer == 1:

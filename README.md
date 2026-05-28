@@ -531,5 +531,10 @@
             <a href="https://www.slideshare.net/slideshow/0417-permainan-batu-gunting-kertas-menggunakan-python-pdf/287609066"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
+        <li> 04.18. Konversi USD ke RMB dan Sebaliknya
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0418-UbahNilaiTukar.py"> (Baris Kode) </a>
+            <span> | </span>
+        </li>
     </ul>
 </div>

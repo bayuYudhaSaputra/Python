@@ -531,10 +531,19 @@
             <a href="https://www.slideshare.net/slideshow/0417-permainan-batu-gunting-kertas-menggunakan-python-pdf/287609066"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
-        <li> 04.18. Konversi USD ke RMB dan Sebaliknya
+         <li> 04.18. Konversi USD ke RMB dan Sebaliknya
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0418-UbahNilaiTukar.py"> (Baris Kode) </a>
             <span> | </span>
-        </li>
+         </li>
+         <li> 0419. Keliling Segitiga
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0419-KelilingSegitiga.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-19-keliling-segitiga-menggunakan-python-13baf4d613d5"> (Penjelasan di Medium) </a> 
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0419-menentukan-keliling-segitiga-menggunakan-python-pdf/287950944"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li> 
     </ul>
 </div>

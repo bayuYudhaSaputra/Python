@@ -544,6 +544,11 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/0419-menentukan-keliling-segitiga-menggunakan-python-pdf/287950944"> (Penjelasan di SlideShare) </a>
             <span> | </span>
+         </li>
+         <li> 0420. Temperatur Wind-chill
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0420-windchill-temperature-edit.py"> (Baris kode) </a>
+            <span> | </span>
          </li> 
     </ul>
 </div>

@@ -16,12 +16,10 @@ import sys
 print("Input angka tahun setelah tahun 1582.")
 input_tahun = int(input("Input tahun (mis. 2026) : "))
 
-
 # 2. Validasi angka tahun
 if ((input_tahun < 1582) or (input_tahun > 9999)):
     print("Input antara 1582 hingga 9999 saja.")
     sys.exit()
-
 
 # 3. Input indeks nama bulan
 print("\nKeterangan indeks bulan,\n \
@@ -36,10 +34,9 @@ print("\nKeterangan indeks bulan,\n \
       \t9  : September,\n \
       \t10 : Oktober, \n \
       \t11 : November,\n \
-      \t12 : Desember.\n")
+      \t12 : Desember.")
 
 indeks_bulan = int(input("Input indeks bulan (mis. 1): "))
-
 
 # 4. Validasi indeks nama bulan
 if (indeks_bulan == 3):
@@ -106,41 +103,60 @@ else:
     print("Input angka 1 hingga 12 saja.")
     sys.exit()
 
-
 # 5. Input tanggal
 print("\nInput angka tanggal antara 1 hingga 31.")
-input_tanggal = int(input("\nInput tanggal (mis. 21): "))
-
+input_tanggal = int(input("Input tanggal (mis. 21): "))
 
 # 6. Validasi tanggal
 # 6a. Validasi tanggal untuk bulan Februari tahun kabisat
-if (indeks_bulan == 2) and (input_tahun % 4 == 0) and (input_tahun % 100 != 0 or input_tahun % 400 == 0):
+if ((indeks_bulan == 2) 
+    and (input_tahun % 4 == 0) 
+    and (input_tahun % 100 != 0 or input_tahun % 400 == 0)):
+
     if (input_tanggal < 1) or (input_tanggal > 29):
-        print("Input tanggal untuk bulan Februari tahun kabisat antara 1 hingga 29 saja.")
+        print("Input tanggal untuk bulan Februari tahun \ "
+        "kabisat antara 1 hingga 29 saja.")
         sys.exit( )
     else:
         q = input_tanggal
 
 #6b. Validasi tanggal untuk bulan Februari tahun bukan kabisat
-if (indeks_bulan == 2) and (input_tahun % 4 != 0 or input_tahun % 100 == 0 and input_tahun % 400 != 0):
+if ((indeks_bulan == 2) and 
+    (input_tahun % 4 != 0 
+     or input_tahun % 100 == 0 
+     and input_tahun % 400 != 0)):
+    
     if (input_tanggal < 1) or (input_tanggal > 28):
-        print("Input tanggal untuk bulan Februari tahun bukan kabisat antara 1 hingga 28 saja.")
+        print("Input tanggal untuk bulan Februari tahun bukan \ " 
+              "kabisat antara 1 hingga 28 saja.")
         sys.exit( )
     else:
         q = input_tanggal
 
 #6c. Validasi tanggal untuk bulan dengan 30 hari
-if (indeks_bulan == 4 or indeks_bulan == 6 or indeks_bulan == 9 or indeks_bulan == 11):
+if (indeks_bulan == 4 
+    or indeks_bulan == 6 
+    or indeks_bulan == 9 
+    or indeks_bulan == 11):
+    
     if (input_tanggal < 1) or (input_tanggal > 30):
-        print("Input tanggal untuk bulan", nama_bulan, "antara 1 hingga 30 saja.")
+        print(f"Input tanggal untuk bulan {nama_bulan} \ "
+              "antara 1 hingga 30 saja.")
         sys.exit( )
     else:
         q = input_tanggal
 
 #6d. Validasi tanggal untuk bulan dengan 31 hari
-if (indeks_bulan == 1 or indeks_bulan == 3 or indeks_bulan == 5 or indeks_bulan == 7 or indeks_bulan == 8 or indeks_bulan == 10 or indeks_bulan == 12):
+if (indeks_bulan == 1 
+    or indeks_bulan == 3 
+    or indeks_bulan == 5 
+    or indeks_bulan == 7 
+    or indeks_bulan == 8 
+    or indeks_bulan == 10 
+    or indeks_bulan == 12):
     if (input_tanggal < 1) or (input_tanggal > 31):
-        print("Input tanggal untuk bulan", nama_bulan, "antara 1 hingga 31 saja.")
+        print(f"Input tanggal untuk bulan {nama_bulan} \ "
+              "antara 1 hingga 31 saja.")
         sys.exit( )
     else:
         q = input_tanggal
@@ -150,18 +166,14 @@ if (input_tahun == 1582) and (indeks_bulan == 10) and (input_tanggal < 15):
     print("Input tanggal sebelum 15 Oktober 1582 tidak valid.")
     sys.exit( )
 
-
 # 7. Hitung indeks K
 K = hitung_tahun % 100
-
 
 # 8. Hitung indeks J
 J = hitung_tahun // 100
 
-
 # 9. Hitung indeks h
 h = (q + (13 * (m + 1)) // 5 + K + (K // 4) + (J // 4) - (2 * J)) % 7
-
 
 # 10. Tentukan nama hari
 if (h == 0):
@@ -179,7 +191,6 @@ elif (h == 5):
 elif (h == 6):
     nama_hari = "Jumat"
 
-
 # 11. Tampilkan nama hari
-print("\nTanggal", input_tanggal, nama_bulan, input_tahun, "adalah hari", nama_hari, ".")
-
+print(f"\nTanggal {input_tanggal} {nama_bulan} {input_tahun} \ "
+      f"adalah hari {nama_hari}.")

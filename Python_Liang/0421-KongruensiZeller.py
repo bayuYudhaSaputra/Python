@@ -192,5 +192,5 @@ elif (h == 6):
     nama_hari = "Jumat"
 
 # 11. Tampilkan nama hari
-print(f"\nTanggal {input_tanggal} {nama_bulan} {input_tahun} \ "
+print(f"\nTanggal {input_tanggal} {nama_bulan} {input_tahun} "
       f"adalah hari {nama_hari}.")

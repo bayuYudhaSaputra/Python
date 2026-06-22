@@ -554,9 +554,9 @@
             <span> | </span>
             <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0421-KongruensiZeller.py"> (Baris kode) </a>
             <span> | </span>
-            <a href="#"> (Penjelasan di Medium) </a> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-21-tentukan-hari-kongruensi-zeller-5cc4de5012e9"> (Penjelasan di Medium) </a> 
             <span> | </span>
-            <a href="#"> (Penjelasan di SlideShare) </a>
+            <a href="https://www.slideshare.net/slideshow/0421-menentukan-nama-hari-menggunakan-kongruensi-zeller-pdf/288184381"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li> 
     </ul>

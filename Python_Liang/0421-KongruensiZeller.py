@@ -114,7 +114,7 @@ if ((indeks_bulan == 2)
     and (input_tahun % 100 != 0 or input_tahun % 400 == 0)):
 
     if (input_tanggal < 1) or (input_tanggal > 29):
-        print("Input tanggal untuk bulan Februari tahun \ "
+        print("Input tanggal untuk bulan Februari tahun"
         "kabisat antara 1 hingga 29 saja.")
         sys.exit( )
     else:
@@ -127,7 +127,7 @@ if ((indeks_bulan == 2) and
      and input_tahun % 400 != 0)):
     
     if (input_tanggal < 1) or (input_tanggal > 28):
-        print("Input tanggal untuk bulan Februari tahun bukan \ " 
+        print("Input tanggal untuk bulan Februari tahun bukan" 
               "kabisat antara 1 hingga 28 saja.")
         sys.exit( )
     else:
@@ -140,7 +140,7 @@ if (indeks_bulan == 4
     or indeks_bulan == 11):
     
     if (input_tanggal < 1) or (input_tanggal > 30):
-        print(f"Input tanggal untuk bulan {nama_bulan} \ "
+        print(f"Input tanggal untuk bulan {nama_bulan}"
               "antara 1 hingga 30 saja.")
         sys.exit( )
     else:
@@ -155,7 +155,7 @@ if (indeks_bulan == 1
     or indeks_bulan == 10 
     or indeks_bulan == 12):
     if (input_tanggal < 1) or (input_tanggal > 31):
-        print(f"Input tanggal untuk bulan {nama_bulan} \ "
+        print(f"Input tanggal untuk bulan {nama_bulan}"
               "antara 1 hingga 31 saja.")
         sys.exit( )
     else:

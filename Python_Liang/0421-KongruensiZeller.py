@@ -141,7 +141,7 @@ if (indeks_bulan == 4
     
     if (input_tanggal < 1) or (input_tanggal > 30):
         print(f"Input tanggal untuk bulan {nama_bulan}"
-              "antara 1 hingga 30 saja.")
+              " antara 1 hingga 30 saja.")
         sys.exit( )
     else:
         q = input_tanggal
@@ -156,7 +156,7 @@ if (indeks_bulan == 1
     or indeks_bulan == 12):
     if (input_tanggal < 1) or (input_tanggal > 31):
         print(f"Input tanggal untuk bulan {nama_bulan}"
-              "antara 1 hingga 31 saja.")
+              " antara 1 hingga 31 saja.")
         sys.exit( )
     else:
         q = input_tanggal

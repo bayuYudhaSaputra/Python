@@ -35,7 +35,8 @@ absis_titik = float(input("Input absis (x) titik sembarang: "))
 ordinat_titik = float(input("Input ordinat (y) titik sembarang: "))
 
 # 6. Hitung jarak titik sembarang ke titik pusat lingkaran (d)
-d = ((absis_titik - absis_pusat) ** 2 + (ordinat_titik - ordinat_pusat) ** 2) ** 0.5
+d = ((absis_titik - absis_pusat) ** 2 + (ordinat_titik - ordinat_pusat) ** 2 
+   ** 0.5)
 
 # 7. Tentukan posisi titik sembarang terhadap lingkaran
 if d < jari2:

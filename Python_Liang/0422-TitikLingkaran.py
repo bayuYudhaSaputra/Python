@@ -14,7 +14,7 @@ Sumber    : https://www.amazon.com/Introduction-Programming-Using-Python-Daniel
 '''
 import sys
 
-# 1. Input titik pusat lingkaran dan jari-jari lingkaran
+# 1. Input titik pusat lingkaran
 absis_pusat = float(input("Input absis (x) titik pusat lingkaran: "))
 ordinat_pusat = float(input("Input ordinat (y) titik pusat lingkaran: "))
 

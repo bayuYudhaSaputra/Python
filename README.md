@@ -558,6 +558,15 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/0421-menentukan-nama-hari-menggunakan-kongruensi-zeller-pdf/288184381"> (Penjelasan di SlideShare) </a>
             <span> | </span>
-         </li> 
+         </li>
+         <li> 0422. Posisi Titik Terhadap Lingkaran
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0422-TitikLingkaran.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-22-posisi-titik-terhadap-lingkaran-8582f7f9882c"> (Penjelasan di Medium) </a> 
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0422-posisi-titik-terhadap-lingkaran-menggunakan-python-pdf/288202438"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li>
     </ul>
 </div>

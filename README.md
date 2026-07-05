@@ -568,5 +568,14 @@
             <a href="https://www.slideshare.net/slideshow/0422-posisi-titik-terhadap-lingkaran-menggunakan-python-pdf/288202438"> (Penjelasan di SlideShare) </a>
             <span> | </span>
          </li>
+         <li> 0423. Posisi Titik Terhadap Persegi Panjang
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0423-PosisiTitikPersegiPanjang.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-23-posisi-titik-terhadap-persegi-panjang-d364ef24a54f"> (Penjelasan di Medium) </a> 
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0423-posisi-titik-persegi-panjang-menggunakan-bahasa-pemrograman-python-pdf/288401966"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li> 
     </ul>
 </div>

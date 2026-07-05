@@ -39,21 +39,21 @@ absis_titik = float(input("Input absis titik sembarang : "))
 ordinat_titik = float(input("Input ordinat titik sembarang : "))
 
 # 7. Hitung setengah jarak horizontal
-setengah_jarak_horizontal = 0.5 * abs(absis_titik - 0)
+jarak_horizontal = abs(absis_titik - 0)
 
 # 8. Hitung setengah jarak vertikal
-setengah_jarak_vertikal = 0.5 * abs(ordinat_titik - 0)
+jarak_vertikal = abs(ordinat_titik - 0)
 
 # 9. Bandingkan jarak dengan panjang dan lebar dan tampilkan hasil
-if ((setengah_jarak_horizontal < panjang) 
-    and (setengah_jarak_vertikal < lebar)):
+if ((jarak_horizontal < panjang / 2 ) 
+    and (jarak_vertikal < lebar / 2 )):
     print(f"\nTitik ({absis_titik},{ordinat_titik}) di dalam "
           "persegi panjang.\n")
 
-elif ((setengah_jarak_horizontal == panjang and 
-       setengah_jarak_vertikal <= lebar) 
-      or (setengah_jarak_vertikal == lebar and 
-          setengah_jarak_horizontal <= panjang)):
+elif ((jarak_horizontal == panjang / 2 and 
+       jarak_vertikal <= lebar / 2 ) 
+      or (jarak_vertikal == lebar / 2 and 
+          jarak_horizontal <= panjang / 2)):
     print(f"\nTitik ({absis_titik},{ordinat_titik}) di keliling " 
           "persegi panjang.\n")
 

@@ -576,6 +576,16 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/0423-posisi-titik-persegi-panjang-menggunakan-bahasa-pemrograman-python-pdf/288401966"> (Penjelasan di SlideShare) </a>
             <span> | </span>
-         </li> 
+         </li>
+         <li> 0424. Simulasi Ambil Kartu
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0424-SimulasiAmbilKartu.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-24-simulasi-pengambilan-kartu-5e58c5bdf708"> (Penjelasan di Medium) </a> 
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0424-simulasi-ambil-kartu-menggunakan-bahasa-pemrograman-python-pdf/288444317"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li>
+             
     </ul>
 </div>

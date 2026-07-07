@@ -585,7 +585,6 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/0424-simulasi-ambil-kartu-menggunakan-bahasa-pemrograman-python-pdf/288444317"> (Penjelasan di SlideShare) </a>
             <span> | </span>
-         </li>
-             
+         </li>             
     </ul>
 </div>

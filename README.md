@@ -585,6 +585,15 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/0424-simulasi-ambil-kartu-menggunakan-bahasa-pemrograman-python-pdf/288444317"> (Penjelasan di SlideShare) </a>
             <span> | </span>
-         </li>             
+         </li>
+         <li> 0425. Hubungan Dua Garis 
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0425-HubunganDuaGaris.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-25-hubungan-dua-garis-5a78a22f3c76?sharedUserId=bayuyudhasaputraqed"> (Penjelasan di Medium) </a> 
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0425-menentukan-hubungan-dua-garis-menggunakan-python-pdf/288652186"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
+         </li> 
     </ul>
 </div>

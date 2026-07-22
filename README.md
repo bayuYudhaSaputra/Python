@@ -594,6 +594,16 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/0425-menentukan-hubungan-dua-garis-menggunakan-python-pdf/288652186"> (Penjelasan di SlideShare) </a>
             <span> | </span>
+         </li>
+         <li> 0426. Polindrom 
+            <span> | </span>
+            <a href="https://github.com/bayuYudhaSaputra/Python/blob/main/Python_Liang/0426-Polindrom.py"> (Baris kode) </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/04-26-polindrom-5051d458b58"> (Penjelasan di Medium) </a> 
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/0426-mengecek-polindrom-menggunakan-bahasa-pemrograman-python-pdf/288727028"> (Penjelasan di SlideShare) </a>
+            <span> | </span>
          </li> 
+ 
     </ul>
 </div>

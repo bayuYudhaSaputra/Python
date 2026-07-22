@@ -603,7 +603,6 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/0426-mengecek-polindrom-menggunakan-bahasa-pemrograman-python-pdf/288727028"> (Penjelasan di SlideShare) </a>
             <span> | </span>
-         </li> 
- 
+         </li>  
     </ul>
 </div>
